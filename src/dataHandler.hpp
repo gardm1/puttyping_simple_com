@@ -10,7 +10,7 @@
 #define SESSIONS_AMOUNT 10
 #define MAX_SESSION_VAR_LEN 50
 #define EMULATOR_AMOUNT 2
-#define BASEDIR "C:\\Users\\gardm\\.putty\\sessions\\"
+#define BASEDIR "C:\\Users\\Your-Name\\.putty\\sessions\\"
 
 class DataHandler {
 public:
